@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Main.java</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #7a7e85;}
+.s1 { color: #bcbec4;}
+.s2 { color: #cf8e6d;}
+.s3 { color: #bcbec4;}
+.s4 { color: #2aacb8;}
+.s5 { color: #6aab73;}
+</style>
+</head>
+<body bgcolor="#1e1f22">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+Main.java</font>
+</center></td></tr></table>
+<pre><span class="s0">//TIP To &lt;b&gt;Run&lt;/b&gt; code, press &lt;shortcut actionId=&quot;Run&quot;/&gt; or</span>
+<span class="s0">// click the &lt;icon src=&quot;AllIcons.Actions.Execute&quot;/&gt; icon in the gutter.</span>
+<span class="s2">public class </span><span class="s1">Main </span><span class="s3">{</span>
+    <span class="s2">public static void </span><span class="s1">main</span><span class="s3">(</span><span class="s1">String</span><span class="s3">[] </span><span class="s1">args</span><span class="s3">) {</span>
+        <span class="s2">int </span><span class="s1">numero</span><span class="s3">; </span><span class="s0">//declaración de variable</span>
+        <span class="s2">int </span><span class="s1">contador</span><span class="s3">; </span><span class="s0">//Todas las variables se declaran juntas y antes de hacer cualquier cosa</span>
+        <span class="s2">int </span><span class="s1">resultado</span><span class="s3">;</span>
+
+        <span class="s1">numero </span><span class="s3">= </span><span class="s4">4</span><span class="s3">; </span><span class="s0">//asignar o inicializar(la primera vez que se le da valor) valor a una variable</span>
+        <span class="s1">contador </span><span class="s3">= </span><span class="s4">1</span><span class="s3">; </span><span class="s0">// Se puede hacer junto: int contador = 1;</span>
+        <span class="s0">//bloque que se repite</span>
+
+        <span class="s2">do </span><span class="s3">{</span>
+            <span class="s1">resultado </span><span class="s3">= </span><span class="s1">numero </span><span class="s3">* </span><span class="s1">contador</span><span class="s3">;</span>
+            <span class="s1">System</span><span class="s3">.</span><span class="s1">out</span><span class="s3">.</span><span class="s1">println</span><span class="s3">(</span><span class="s1">numero</span><span class="s3">+</span><span class="s5">&quot;*&quot;</span><span class="s3">+</span><span class="s1">contador</span><span class="s3">+</span><span class="s5">&quot;=&quot;</span><span class="s3">+</span><span class="s1">resultado</span><span class="s3">);</span>
+            <span class="s1">contador</span><span class="s3">++;</span>
+        <span class="s3">} </span><span class="s2">while </span><span class="s3">(</span><span class="s1">contador </span><span class="s3">&lt; </span><span class="s4">11</span><span class="s3">);</span>
+
+
+
+           <span class="s3">}</span>
+<span class="s3">}</span>
+
+<span class="s0">//if (contador &gt; 10) {} //Salimos</span>
+        <span class="s0">// código en caso afirmativo</span>
+  <span class="s0">//      else //repetimos</span>
+<span class="s0">// código en caso negativo</span>
+</pre>
+</body>
+</html>

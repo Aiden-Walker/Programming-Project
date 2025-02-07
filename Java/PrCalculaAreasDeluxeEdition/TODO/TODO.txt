@@ -1,0 +1,4 @@
+Ampliations:
+Finish developing the rest of the get methods (circle, rectangle, etc)
+Away from that:
+Method "obtenerFiguraGeometrica"(getGeometricFigure) needs a new exception type, we will have to create it.

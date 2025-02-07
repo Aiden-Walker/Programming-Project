@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PrCalculaAreas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PrCalculaAreas_jar</output-path>
+    <root id="archive" name="PrCalculaAreas.jar">
+      <element id="module-output" name="PrCalculaAreas" />
+    </root>
+  </artifact>
+</component>

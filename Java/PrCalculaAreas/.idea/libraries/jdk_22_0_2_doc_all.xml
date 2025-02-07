@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdk-22.0.2_doc-all">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Tools/Installers/sdk22/jdk-22.0.2_doc-all.zip!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Excercise3Multiplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Excercise3Multiplication_jar</output-path>
+    <root id="archive" name="Excercise3Multiplication.jar">
+      <element id="module-output" name="Excercise3Multiplication" />
+    </root>
+  </artifact>
+</component>

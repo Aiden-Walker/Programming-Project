@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Exercise5MultiplicationTable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exercise5MultiplicationTable_jar</output-path>
+    <root id="archive" name="Exercise5MultiplicationTable.jar">
+      <element id="module-output" name="Exercise5MultiplicationTable" />
+    </root>
+  </artifact>
+</component>
