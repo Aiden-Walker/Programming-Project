@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Multiplicationtableexcercise3/Multiplicationtableexcercise3.iml" filepath="$PROJECT_DIR$/Java/Multiplicationtableexcercise3/Multiplicationtableexcercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming-Project.iml" filepath="$PROJECT_DIR$/.idea/Programming-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/TablaMultiplicar4/TablaMultiplicar4.iml" filepath="$PROJECT_DIR$/Java/TablaMultiplicar4/TablaMultiplicar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/TablaMultiplicarEjercicio1/TablaMultiplicarEjercicio1.iml" filepath="$PROJECT_DIR$/Java/TablaMultiplicarEjercicio1/TablaMultiplicarEjercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/multiplicationtableexercise4/multiplicationtableexercise4.iml" filepath="$PROJECT_DIR$/Java/multiplicationtableexercise4/multiplicationtableexercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/numberead/numberead.iml" filepath="$PROJECT_DIR$/Java/numberead/numberead.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/triangle_area/triangle_area.iml" filepath="$PROJECT_DIR$/Java/triangle_area/triangle_area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/triangle_area_with_user_confirms/triangle_area_with_user_confirms.iml" filepath="$PROJECT_DIR$/Java/triangle_area_with_user_confirms/triangle_area_with_user_confirms.iml" />
+    </modules>
+  </component>
+</project>
